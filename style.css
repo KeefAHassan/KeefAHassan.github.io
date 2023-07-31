@@ -4,28 +4,27 @@ body {
   font-sixe: 24px; 
   margin: 10% 20%;
 }
-
-.exp-header{  
+.exp-header{ 
+  text-align: center;
 }
 .header {
   border: 1px solid ;
+  border-bottom:1px solid;
   padding-left:10px;
 }
 .footer { 
 background: ;
 }
 h1 {
+  text-align: center;
   border-top:1px solid;
-  border-bottom:  1px solid;
-  
+  border-bottom:1px solid;
 }
 
 h4 {
    border-top:1px solid;
   border-bottom:  1px solid;
+  text-align: center:
 
 }
-h3 { 
 
-  
-}
